@@ -228,9 +228,3 @@ If you use this pipeline or the original study design in your work, please cite:
 > O'Bryan, S. R., McCarthy, J. D., & Song, J. H. (2024). Effector-independent neural representations of selection history during action preparation. *Journal of Cognitive Neuroscience, 36*(4), 698–713. https://doi.org/10.1162/jocn_a_02102
 
 See also [`CITATION.cff`](CITATION.cff) for a machine-readable citation file. GitHub will display a **"Cite this repository"** button automatically.
-
----
-
-## License
-
-This project is licensed under the MIT License — see [LICENSE](LICENSE) for details.
